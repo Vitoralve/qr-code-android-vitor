@@ -1,1 +1,2 @@
-# qr-code-android-vitor
+# QR-Code-Android
+Qr-code para entrada e saída de eventos
